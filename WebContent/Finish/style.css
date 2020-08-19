@@ -1,0 +1,47 @@
+.navbar {
+	margin-bottom: 0;
+	border-radius: 0;
+	background-color: black;
+	color: white;
+	padding: 1% 0;
+	font-size: 1.2em;
+	border: 0;
+}
+
+.navbar-inverse .navbar-nav .active a, .navbar-inverse .navbar-nav .active a:focus,
+.navbar-inverse .navbar-nav .active a:hover{
+	color: white;
+	background-color: black ;
+}
+
+.carousel-caption {
+	top: 50%;
+	transform: translateY(-50%);
+}
+
+.btn {
+	font-size: 18px;
+	color: white;
+	padding: 12px;
+	background-color: black;
+	border: 2px solid white;
+}
+.container {
+	margin: 4% auto;
+}
+#icon {
+	max-width: 200px;
+	margin: 1% auto;
+}
+footer {
+	width: 100%;
+	background-color: black;
+	padding: 3%;
+	color: white;
+}
+
+.fa {
+	padding: 20px;
+	font-size: 30px;
+	color: white;
+}
